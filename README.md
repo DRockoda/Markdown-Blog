@@ -21,8 +21,5 @@ This is a blog website that you can use to add and customize articles.The articl
 * Add article screen
 <img src="ss/ss2.JPG" height=400px>
 
-* View Article
-<img src="ss/ss3.JPG" height=400px>
-
 ## Live demo
 https://blog-markdown-app.herokuapp.com
